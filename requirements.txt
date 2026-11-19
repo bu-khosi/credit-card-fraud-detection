@@ -1,0 +1,16 @@
+
+# Core data analysis
+pandas
+numpy
+
+# Data visualisation
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Development environment
+jupyter
+notebook
