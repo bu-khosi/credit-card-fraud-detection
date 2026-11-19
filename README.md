@@ -85,6 +85,7 @@ The following chart compares the performance of all three models.
 ![Model Performance Comparison](model_performance_comparison.png)
 
 ## Best Performing Model
+![Credit Card Fraud Detection Model Performance](model_performance_comparison.png)
 
 The following chart compares the performance of all three models.
 
