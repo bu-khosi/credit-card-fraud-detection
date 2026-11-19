@@ -86,6 +86,12 @@ The following chart compares the performance of all three models.
 
 ## Best Performing Model
 
+The following chart compares the performance of all three models.
+
+![Model Performance Comparison](model_performance_comparison.png)
+
+## Best Performing Model
+
 Random Forest achieved the strongest overall results:
 
 - Accuracy: 99.98%
