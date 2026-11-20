@@ -80,9 +80,9 @@ Three classification algorithms were evaluated:
 
 ## Visual Results
 
-The following chart compares the performance of all three models.
+The chart below compares the performance of the three machine learning models.
 
-![Model Performance Comparison](model_performance_comparison.png)
+![Credit Card Fraud Detection Model Performance](fraud_model_comparison.png)
 
 ## Best Performing Model
 ![Credit Card Fraud Detection Model Performance](model_performance_comparison.png)
