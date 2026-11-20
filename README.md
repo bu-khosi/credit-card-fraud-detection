@@ -85,6 +85,7 @@ The chart below compares the performance of the three machine learning models.
 ![Credit Card Fraud Detection Model Performance](fraud_model_comparison.png)
 
 
+# Best Perfoming Model
 
 Random Forest achieved the strongest overall results:
 
@@ -96,19 +97,19 @@ Random Forest achieved the strongest overall results:
 
 ## Project Limitations
 
-The dataset is balanced, containing equal numbers of legitimate and fraudulent transactions. Real-world banking transactions typically have a much lower fraud rate.
+This project demonstrates the application of data analysis and supervised machine learning techniques to a financial fraud detection problem.
 
-The transaction identifier showed a strong relationship with the target class and was excluded from model training. Its ordering raises questions about the dataset's construction and generalisability.
+Three classification algorithms were developed and evaluated. Random Forest achieved the strongest overall performance, while XGBoost also delivered highly competitive results.
 
-The high benchmark scores should not be interpreted as guaranteed real-world banking performance. Further independent and time-based validation using representative banking data would be required before deployment.
+The project strengthened practical skills in Python programming, data analysis, exploratory data analysis, feature investigation, machine learning, model evaluation, cross-validation, and data visualisation.
 
 ## Conclusion
 
 This project demonstrates the application of data analysis and supervised machine learning techniques to a financial fraud detection problem.
 
-The comparison identified Random Forest as the strongest overall model on the selected benchmark dataset.
+Three classification algorithms were developed and evaluated. Random Forest achieved the strongest overall performance, while XGBoost also delivered highly competitive results.
 
-The project strengthened practical skills in Python programming, data analysis, machine learning, model evaluation and data visualisation.
+The project strengthened practical skills in Python programming, data analysis, exploratory data analysis, feature investigation, machine learning, model evaluation, cross-validation, and data visualisation.
 
 ## Author
 
